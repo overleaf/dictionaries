@@ -1,0 +1,357 @@
+[
+  {
+    "package": "hunspell-af",
+    "file": "af_ZA",
+    "name": "Afrikaans"
+  },
+  {
+    "package": "hunspell-an",
+    "file": "an_ES",
+    "name": "Aragonese"
+  },
+  {
+    "package": "hunspell-ar",
+    "file": "ar",
+    "name": "Arabic"
+  },
+  {
+    "package": "hunspell-be",
+    "file": "be_BY",
+    "name": "Belarusian"
+  },
+  {
+    "package": "hunspell-bg",
+    "file": "bg_BG",
+    "name": "Bulgarian"
+  },
+  {
+    "package": "hunspell-bn",
+    "file": "bn_BD",
+    "name": "Bengali"
+  },
+  {
+    "package": "hunspell-bo",
+    "file": "bo",
+    "name": "Tibetan"
+  },
+  {
+    "package": "hunspell-br",
+    "file": "br_FR",
+    "name": "Breton"
+  },
+  {
+    "package": "hunspell-bs",
+    "file": "bs_BA",
+    "name": "Bosnian"
+  },
+  {
+    "package": "hunspell-ca",
+    "file": "ca",
+    "name": "Catalan"
+  },
+  {
+    "package": "hunspell-cs",
+    "file": "cs_CZ",
+    "name": "Czech"
+  },
+  {
+    "package": "hunspell-da",
+    "file": "da_DK",
+    "name": "Danish"
+  },
+  {
+    "package": "hunspell-de-at-frami",
+    "file": "de_AT",
+    "name": "German (Austria)"
+  },
+  {
+    "package": "hunspell-de-ch-frami",
+    "file": "de_CH",
+    "name": "German (Switzerland)"
+  },
+  {
+    "package": "hunspell-de-de-frami",
+    "file": "de_DE",
+    "name": "German (Germany)"
+  },
+  {
+    "package": "hunspell-dz",
+    "file": "dz",
+    "name": "Dzongkha"
+  },
+  {
+    "package": "hunspell-el",
+    "file": "el_GR",
+    "name": "Greek"
+  },
+  {
+    "package": "hunspell-en-au",
+    "file": "en_AU",
+    "name": "English (Australia)"
+  },
+  {
+    "package": "hunspell-en-ca",
+    "file": "en_CA",
+    "name": "English (Canada)"
+  },
+  {
+    "package": "hunspell-en-gb",
+    "file": "en_GB",
+    "name": "English (GB)"
+  },
+  {
+    "package": "hunspell-en-us",
+    "file": "en_US",
+    "name": "English (US)"
+  },
+  {
+    "package": "hunspell-en-za",
+    "file": "en_ZA",
+    "name": "English (South Africa)"
+  },
+  {
+    "package": "hunspell-eo",
+    "file": "eo",
+    "name": "Esperanto"
+  },
+  {
+    "package": "hunspell-es",
+    "file": "es_ES",
+    "name": "Spanish"
+  },
+  {
+    "package": "hunspell-eu",
+    "file": "eu",
+    "name": "Basque"
+  },
+  {
+    "package": "hunspell-fr-classical",
+    "file": "fr",
+    "name": "French"
+  },
+  {
+    "package": "hunspell-gd",
+    "file": "gd_GB",
+    "name": "Scottish Gaelic"
+  },
+  {
+    "package": "hunspell-gl",
+    "file": "gl_ES",
+    "name": "Galician"
+  },
+  {
+    "package": "hunspell-gu",
+    "file": "gu_IN",
+    "name": "Gujarati"
+  },
+  {
+    "package": "hunspell-gug",
+    "file": "gug_PY",
+    "name": "Guarani"
+  },
+  {
+    "package": "hunspell-he",
+    "file": "he_IL",
+    "name": "Hebrew"
+  },
+  {
+    "package": "hunspell-hi",
+    "file": "hi_IN",
+    "name": "Hindi"
+  },
+  {
+    "package": "hunspell-hr",
+    "file": "hr_HR",
+    "name": "Croatian"
+  },
+  {
+    "package": "hunspell-hu",
+    "file": "hu_HU",
+    "name": "Hungarian"
+  },
+  {
+    "package": "hunspell-id",
+    "file": "id_ID",
+    "name": "Indonesian"
+  },
+  {
+    "package": "hunspell-is",
+    "file": "is_IS",
+    "name": "Icelandic"
+  },
+  {
+    "package": "hunspell-it",
+    "file": "it_IT",
+    "name": "Italian"
+  },
+  {
+    "package": "hunspell-kk",
+    "file": "kk_KZ",
+    "name": "Kazakh"
+  },
+  {
+    "package": "hunspell-kmr",
+    "file": "kmr_Latn",
+    "name": "Kurmanji"
+  },
+  {
+    "package": "hunspell-ko",
+    "file": "ko",
+    "name": "Korean"
+  },
+  {
+    "package": "hunspell-lo",
+    "file": "lo_LA",
+    "name": "Laotian"
+  },
+  {
+    "package": "hunspell-lt",
+    "file": "lt_LT",
+    "name": "Lithuanian"
+  },
+  {
+    "package": "hunspell-lv",
+    "file": "lv_LV",
+    "name": "Latvian"
+  },
+  {
+    "package": "hunspell-ml",
+    "file": "ml_IN",
+    "name": "Malayalam"
+  },
+  {
+    "package": "hunspell-mn",
+    "file": "mn_MN",
+    "name": "Mongolian"
+  },
+  {
+    "package": "hunspell-ne",
+    "file": "ne_NP",
+    "name": "Nepali"
+  },
+  {
+    "package": "hunspell-nl",
+    "file": "nl",
+    "name": "Dutch"
+  },
+  {
+    "package": "hunspell-no",
+    "file": "nn_NO",
+    "name": "Norwegian"
+  },
+  {
+    "package": "hunspell-oc",
+    "file": "oc_FR",
+    "name": "Occitan"
+  },
+  {
+    "package": "hunspell-pl",
+    "file": "pl_PL",
+    "name": "Polish"
+  },
+  {
+    "package": "hunspell-pt-br",
+    "file": "pt_BR",
+    "name": "Portuguese (Brazil)"
+  },
+  {
+    "package": "hunspell-pt-pt",
+    "file": "pt_PT",
+    "name": "Portuguese (Portugal)"
+  },
+  {
+    "package": "hunspell-ro",
+    "file": "ro_RO",
+    "name": "Romanian"
+  },
+  {
+    "package": "hunspell-ru",
+    "file": "ru_RU",
+    "name": "Russian"
+  },
+  {
+    "package": "hunspell-si",
+    "file": "si_LK",
+    "name": "Sinhala"
+  },
+  {
+    "package": "hunspell-sk",
+    "file": "sk_SK",
+    "name": "Slovak"
+  },
+  {
+    "package": "hunspell-sl",
+    "file": "sl_SI",
+    "name": "Slovenian"
+  },
+  {
+    "package": "hunspell-sr",
+    "file": "sr_RS",
+    "name": "Serbian"
+  },
+  {
+    "package": "hunspell-sv",
+    "file": "sv_SE",
+    "name": "Swedish"
+  },
+  {
+    "package": "hunspell-sw",
+    "file": "sw_TZ",
+    "name": "Swahili"
+  },
+  {
+    "package": "hunspell-te",
+    "file": "te_IN",
+    "name": "Telugu"
+  },
+  {
+    "package": "hunspell-th",
+    "file": "th_TH",
+    "name": "Thai"
+  },
+  {
+    "package": "hunspell-tr",
+    "file": "tr_TR",
+    "name": "Turkish"
+  },
+  {
+    "package": "hunspell-uk",
+    "file": "uk_UA",
+    "name": "Ukrainian"
+  },
+  {
+    "package": "hunspell-uz",
+    "file": "uz_UZ",
+    "name": "Uzbek"
+  },
+  {
+    "package": "hunspell-vi",
+    "file": "vi_VN",
+    "name": "Vietnamese"
+  },
+  {
+    "package": "myspell-et",
+    "file": "et_EE",
+    "name": "Estonian"
+  },
+  {
+    "package": "myspell-fa",
+    "file": "fa_IR",
+    "name": "Persian (Farsi)"
+  },
+  {
+    "package": "myspell-fo",
+    "file": "fo",
+    "name": "Faroese"
+  },
+  {
+    "package": "myspell-ga",
+    "file": "ga_IE",
+    "name": "Irish (Gaeilge)"
+  },
+  {
+    "package": "myspell-tl",
+    "file": "tl",
+    "name": "Tagalog"
+  }
+]

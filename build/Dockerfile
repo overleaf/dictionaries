@@ -1,0 +1,77 @@
+FROM debian:testing-slim
+
+ARG DEBIAN_FRONTEND=noninteractive
+
+# https://packages.debian.org/sid/hunspell-dictionary
+RUN apt-get update && apt-get install -y nodejs \
+    hunspell-af \
+    hunspell-an \
+    hunspell-ar \
+    hunspell-be \
+    hunspell-bg \
+    hunspell-bn \
+    hunspell-bo \
+    hunspell-br \
+    hunspell-bs \
+    hunspell-ca \
+    hunspell-cs \
+    hunspell-da \
+    hunspell-de-at-frami \
+    hunspell-de-ch-frami \
+    hunspell-de-de-frami \
+    hunspell-dz \
+    hunspell-el \
+    hunspell-en-au \
+    hunspell-en-ca \
+    hunspell-en-gb \
+    hunspell-en-us \
+    hunspell-en-za \
+    hunspell-eo \
+    hunspell-es \
+    hunspell-eu \
+    hunspell-fr-classical \
+    hunspell-gd \
+    hunspell-gl \
+    hunspell-gu \
+    hunspell-gug \
+    hunspell-he \
+    hunspell-hi \
+    hunspell-hr \
+    hunspell-hu \
+    hunspell-id \
+    hunspell-is \
+    hunspell-it \
+    hunspell-kk \
+    hunspell-kmr \
+    hunspell-ko \
+    hunspell-lo \
+    hunspell-lt \
+    hunspell-lv \
+    hunspell-ml \
+    hunspell-mn \
+    hunspell-ne \
+    hunspell-nl \
+    hunspell-no \
+    hunspell-oc \
+    hunspell-pl \
+    hunspell-pt-br \
+    hunspell-pt-pt \
+    hunspell-ro \
+    hunspell-ru \
+    hunspell-si \
+    hunspell-sk \
+    hunspell-sl \
+    hunspell-sr \
+    hunspell-sv \
+    hunspell-sw \
+    hunspell-te \
+    hunspell-th \
+    hunspell-tr \
+    hunspell-uk \
+    hunspell-uz \
+    hunspell-vi \
+    myspell-et \
+    myspell-fa \
+    myspell-fo \
+    myspell-ga \
+    myspell-tl
