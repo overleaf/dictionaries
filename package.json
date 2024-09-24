@@ -2,6 +2,7 @@
   "name": "@overleaf/dictionaries",
   "version": "0.0.1",
   "description": "Hunspell dictionaries, converted to UTF-8 from Debian packages",
+  "main": "index.mjs",
   "files": ["dictionaries"],
   "repository": {
     "type": "git",
