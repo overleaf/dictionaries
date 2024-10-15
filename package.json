@@ -1,6 +1,6 @@
 {
   "name": "@overleaf/dictionaries",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hunspell dictionaries, converted to UTF-8 from Debian packages",
   "main": "index.mjs",
   "files": [
