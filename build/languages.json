@@ -236,8 +236,13 @@
   },
   {
     "package": "hunspell-no",
+    "file": "nb_NO",
+    "name": "Norwegian, Bokmål"
+  },
+  {
+    "package": "hunspell-no",
     "file": "nn_NO",
-    "name": "Norwegian"
+    "name": "Norwegian, Nynorsk"
   },
   {
     "package": "hunspell-oc",
